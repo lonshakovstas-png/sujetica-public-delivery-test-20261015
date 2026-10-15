@@ -1,0 +1,1 @@
+async function e(e,t=15e3){let n;try{return await Promise.race([e,new Promise((e,r)=>{n=setTimeout(()=>r(Error(`unconfirmed_request`)),t)})])}finally{clearTimeout(n)}}async function t(t,n,r){let i={ok:!1,reason:`storage_unavailable`};try{return(await e(t)).ok&&n()?{ok:!0}:i}catch{return n()&&r(),i}}export{t as n,e as t};
