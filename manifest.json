@@ -1,0 +1,18 @@
+{
+  "scope": "two public immutable files only; not application deployment",
+  "sourceArtifact": "e8b2868ae82b3ebf90c3cbe7192c213ec299e078f1ad213d9a39b3f7006b52af",
+  "files": [
+    {
+      "name": "hero-850-ad2d893caba9e9c8.webp",
+      "source": "/sujetica-home/immutable/hero-850-ad2d893caba9e9c8.webp",
+      "bytes": 64664,
+      "sha256": "ad2d893caba9e9c8d47abc7dfa115a450065d114db013dfa2bf3fc89e28c875f"
+    },
+    {
+      "name": "index-B6hUNnYD.js",
+      "source": "/_next/static/chunks/index-B6hUNnYD.js",
+      "bytes": 210282,
+      "sha256": "57fcfd7135390800ff83b06f00ded2ecb76222cca45c417ac7fdd77dbec7e234"
+    }
+  ]
+}
