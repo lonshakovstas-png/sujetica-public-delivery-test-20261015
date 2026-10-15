@@ -1,0 +1,146 @@
+[
+  {
+    "source": "about.webp",
+    "sourceSha256": "863fb6c16733415603814bc3857d2c6a9b20f4cce3af40dca5ba40b0790f12a6",
+    "file": "about-500.webp",
+    "width": 500,
+    "height": 278,
+    "bytes": 28168,
+    "sha256": "b7025a7d98b91439e1119b2e89e8b0ce063c21d23024251443945da1191d9623"
+  },
+  {
+    "source": "child-book.webp",
+    "sourceSha256": "4e8305cafaa39904f27effc3e42799320a59e69a97e7bf57e0bfe6124133ac16",
+    "file": "child-book-500.webp",
+    "width": 500,
+    "height": 389,
+    "bytes": 67184,
+    "sha256": "ceb58f9e10f2e187b601c84e5da73fd407645acae833cf5760ffd1f0ea1fe6d9"
+  },
+  {
+    "source": "child-film.webp",
+    "sourceSha256": "0df2f4b043f6af794a41f597fe480ac08515109bc4877716ce51b139121ace7c",
+    "file": "child-film-500.webp",
+    "width": 500,
+    "height": 389,
+    "bytes": 74038,
+    "sha256": "ba797540c5c96148e51072d9f9888823fd7b2f8b49be0e825e50aa3b73e017fa"
+  },
+  {
+    "source": "hero.webp",
+    "sourceSha256": "0cf8f771ef1ef580f667092c291351fa4a4d3b1bb4d312a32a4c836adbc866ae",
+    "file": "hero-500.webp",
+    "width": 500,
+    "height": 250,
+    "bytes": 27984,
+    "sha256": "de06318a6713693448fb856777d67f458a7a5cf3493ea47573da1cccd3b84a79"
+  },
+  {
+    "source": "hero.webp",
+    "sourceSha256": "0cf8f771ef1ef580f667092c291351fa4a4d3b1bb4d312a32a4c836adbc866ae",
+    "file": "hero-850.webp",
+    "width": 850,
+    "height": 425,
+    "bytes": 64664,
+    "sha256": "ad2d893caba9e9c8d47abc7dfa115a450065d114db013dfa2bf3fc89e28c875f"
+  },
+  {
+    "source": "logo.webp",
+    "sourceSha256": "512bed507a82c4d0e0fd0df3f0575e03646e5134c4c78e5c3cf44c7323a48465",
+    "file": "logo-245.webp",
+    "width": 245,
+    "height": 82,
+    "bytes": 11936,
+    "sha256": "b9bfb74c5c384938d4ce1320a84453646dd1b747cd4bdb9af2806268bb5c5e83"
+  },
+  {
+    "source": "logo.webp",
+    "sourceSha256": "512bed507a82c4d0e0fd0df3f0575e03646e5134c4c78e5c3cf44c7323a48465",
+    "file": "logo-490.webp",
+    "width": 490,
+    "height": 163,
+    "bytes": 30504,
+    "sha256": "44b58d5643ef8bf5f1562c0534ecdb7285e0d18ca82b8afc5c6f4b56a80f26aa"
+  },
+  {
+    "source": "poetry.webp",
+    "sourceSha256": "bbd03a7a90e336905208e5836e2406c1ff82a205d93f7601dbfc9186fe5cd626",
+    "file": "poetry-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 31894,
+    "sha256": "4851d19f866e36a547a1fa8104a50b120fc8fe988cd62ff972afebb87f48ec01"
+  },
+  {
+    "source": "quest.webp",
+    "sourceSha256": "c7a11f942bf9ce678dbde53db7070f7aabf58df1a6d9553b4eae3eae35966fd1",
+    "file": "quest-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 35860,
+    "sha256": "8cc1a18bfa6a3bc92ea6c72a16c67752eb2b3e052e54d0a1364786989c3d0cfe"
+  },
+  {
+    "source": "reviews.webp",
+    "sourceSha256": "4ad279d735752356821f03263c0d708240be4e37c36c84f4f319fc05c6bd9480",
+    "file": "reviews-500.webp",
+    "width": 500,
+    "height": 167,
+    "bytes": 16206,
+    "sha256": "5c836273d5e30af63ac81df8dc8d3394b5372cf388ca567755c231e8810bffa5"
+  },
+  {
+    "source": "ribbon.webp",
+    "sourceSha256": "b7e74c8529fba4b8d5761c5525df29dba28aa36e999b7cc2ea72ff6ff7857015",
+    "file": "ribbon-500.webp",
+    "width": 500,
+    "height": 200,
+    "bytes": 10136,
+    "sha256": "552f60e54284d1da7c9e846a310e574091fdee2495316f4f047b7572838e6f21"
+  },
+  {
+    "source": "screenplay.webp",
+    "sourceSha256": "5c504f8e3f4bbf757695e0b863481d4c9fb70cdecd17f95a710629612b8df590",
+    "file": "screenplay-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 27348,
+    "sha256": "331dff74f77c4849642d27f95dc4daae2a69e1c3762eb582933d8c3216ab70bd"
+  },
+  {
+    "source": "song.webp",
+    "sourceSha256": "1d215943e6ab122f01f58b9cfb793984f7ba9a732ed06f841e62d6562f0b5e0c",
+    "file": "song-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 32102,
+    "sha256": "bc32d7e037f3cad24313e47c10b1c030aa0aaf70ca126bbee81ec30de8984f3a"
+  },
+  {
+    "source": "speech.webp",
+    "sourceSha256": "854861c08945065243b75c81049797383ebf53754cc21795f3d27020cd6c27f7",
+    "file": "speech-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 17712,
+    "sha256": "9e13070c256e365d05a3966d4e1e3fe260bc4dd18f7d6798d23e75078b8f8a5e"
+  },
+  {
+    "source": "toast.webp",
+    "sourceSha256": "364e3fffe04e77ebd0f3e448564fca9de43b43878f26a94763cacd13cea4a9aa",
+    "file": "toast-500.webp",
+    "width": 500,
+    "height": 300,
+    "bytes": 25592,
+    "sha256": "203dd83a2427fba740d394098f7e397ee34c61f396e7d947e1632879321b98da"
+  },
+  {
+    "source": "tutor.webp",
+    "sourceSha256": "0e5c3fba65c54bad08918abbfa712b1e6e4fdabffc25501705eb85e7026ab283",
+    "file": "tutor-500.webp",
+    "width": 500,
+    "height": 389,
+    "bytes": 50694,
+    "sha256": "0804d02655b0917b166e38bbd0b7cc59e91e7adec68125e292c2e342dc9d979c"
+  }
+]

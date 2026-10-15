@@ -1,2 +1,7 @@
 *.js -text
 *.webp -text
+*.woff -text
+*.woff2 -text
+*.css -text
+*.html -text
+*.json -text

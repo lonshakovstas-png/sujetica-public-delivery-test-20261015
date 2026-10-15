@@ -1,0 +1,767 @@
+{
+  "artifactId": "3ff5a17e971607f08b749de66d4b90185090c74052017de9414e79f6785cf61e",
+  "scope": "independent homepage test only; production artifact unchanged",
+  "sourceSha": "3f80630609443532e2e392b758599b4e8763db04",
+  "files": [
+    {
+      "path": "assets/index-NMQXAb_F.js",
+      "bytes": 211773,
+      "sha256": "c42e2b8220c3418d49f5f6e2b83a7741bf5aa404162520ae6e85e8ae05f32b05"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "home.css",
+      "bytes": 31464,
+      "sha256": "f7b2966e524269120888c7c814d5fceb3d92cda4a11ef301454649c515648119"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24806,
+      "sha256": "e10d68a8cad5f40d8d4bfc1c91aefe8bbe671d241a7faba0be03eb4bbe749a7c"
+    },
+    {
+      "path": "sujetica-home/about.webp",
+      "bytes": 106872,
+      "sha256": "863fb6c16733415603814bc3857d2c6a9b20f4cce3af40dca5ba40b0790f12a6"
+    },
+    {
+      "path": "sujetica-home/child-book.webp",
+      "bytes": 195554,
+      "sha256": "4e8305cafaa39904f27effc3e42799320a59e69a97e7bf57e0bfe6124133ac16"
+    },
+    {
+      "path": "sujetica-home/child-film.webp",
+      "bytes": 221578,
+      "sha256": "0df2f4b043f6af794a41f597fe480ac08515109bc4877716ce51b139121ace7c"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-400-italic-AH1vqu4S.woff",
+      "bytes": 16012,
+      "sha256": "0fbe68f0ae86850291607fed0654535ca0e4e59774f2083be8e6a2b0838330fe"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-400-italic-D3GtrbRZ.woff2",
+      "bytes": 12720,
+      "sha256": "109ce34012f204b9794f2fa2e8e6fdff52b156636cd5da86d86ae7142b48aa03"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-400-normal-CVFrM67f.woff",
+      "bytes": 15696,
+      "sha256": "11a86b7cdc25186a0a119cfc4e9269032ae8b11aa9e70acf98e48ac5d05e390d"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-400-normal-DD2KOZkl.woff2",
+      "bytes": 12776,
+      "sha256": "0d23162e67528fdc5fe1b12bedc525a69bbdc86d5d9f3c2ee9e9ee459934ecd4"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-ext-400-italic-BEGvmv_3.woff2",
+      "bytes": 14748,
+      "sha256": "91b622f3d9d90c295a5667852858e85493586e5950a3b6c052dc275e6ea49f77"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-ext-400-italic-C_Uk1MUY.woff",
+      "bytes": 19136,
+      "sha256": "c144b6b4715551b519a4fa74e9010c212b3891d07778e5ccc462dcea780b2bb9"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-ext-400-normal-DLdKLAvx.woff",
+      "bytes": 17428,
+      "sha256": "2373fdbd96854b3a6868d3ea36019d0e6f2f48c9990de8f80f0ae867fbaa4a53"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-cyrillic-ext-400-normal-W3Dto7M0.woff2",
+      "bytes": 13920,
+      "sha256": "02a3bbfd23dfcfac40ad87d8954078cd96f8a85e661fc73617245fe06d2aa4ea"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-400-italic-BLh7T8o8.woff",
+      "bytes": 32888,
+      "sha256": "337d07118277acbf5a0eb19c602aaf917b2485585360f2c7139ce42d9d4e6cc1"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-400-italic-Dc_OZ8oc.woff2",
+      "bytes": 23660,
+      "sha256": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-400-normal-B-1hWBU7.woff2",
+      "bytes": 22876,
+      "sha256": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-400-normal-B7YtguxJ.woff",
+      "bytes": 30980,
+      "sha256": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-ext-400-italic-BdEzgT7i.woff2",
+      "bytes": 20284,
+      "sha256": "96ec6109d044a8f2b279937499923fc0435db3e6bd91ce4cb1fd806d566378b9"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-ext-400-italic-CQvLaSWn.woff",
+      "bytes": 28716,
+      "sha256": "2697e1ecd11cd30adf57e52f7571bf821c92719fd7c471cea1d7a178cf39d3a1"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-ext-400-normal-Drx2k2n9.woff2",
+      "bytes": 19888,
+      "sha256": "375a088756d1cb10eb91a9a7de18ad5e9858689abe76496dd78e560fef0bbebb"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-latin-ext-400-normal-uvC0WHQr.woff",
+      "bytes": 27928,
+      "sha256": "751bcaa2bf2f07cb2b03f6c83e548dc254d3161741245fa96b372e78cf4c4055"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-vietnamese-400-italic-BoXDRTEW.woff2",
+      "bytes": 6764,
+      "sha256": "4a82e13d26b06c46839898021bb511623f9b73779b4ded1ef60e11df2b136426"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-vietnamese-400-italic-CJpMwFnN.woff",
+      "bytes": 9408,
+      "sha256": "b6c8a02deaec45a9e558be98b4666732041665cccf4779e791d075a8a1992412"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-vietnamese-400-normal-4uxlocMh.woff",
+      "bytes": 9316,
+      "sha256": "d2eac685abd3003ac60c4a208fe1d2febceba397964db73df656b1d2d62e2b24"
+    },
+    {
+      "path": "sujetica-home/fonts/cormorant-garamond-vietnamese-400-normal-6K-YXo6g.woff2",
+      "bytes": 6744,
+      "sha256": "eddcd28ffd8e111c669789b2978019359bb67b2e2696e566364fd37133c20a3b"
+    },
+    {
+      "path": "sujetica-home/fonts/embedded-10.woff",
+      "bytes": 2200,
+      "sha256": "2ba8c74e257f85e4462880a1bf39ca3db270b11923d14a674080ef8f6289a7da"
+    },
+    {
+      "path": "sujetica-home/fonts/embedded-16.woff",
+      "bytes": 2192,
+      "sha256": "af1f6f3fa552cf928315a8c18c09806f1d7d3c143ad16ccf2c0597064456f69b"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-cyrillic-400-normal-BMzJvInZ.woff2",
+      "bytes": 7840,
+      "sha256": "5a987d1484070f1ea54de7c10ebfa4057a18e379361dbe5fd5c4fa4c2d95ef39"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-cyrillic-400-normal-Dvx59UGC.woff",
+      "bytes": 10032,
+      "sha256": "377eaffaf00d2fe381870f08f098e3ad266618253c9d4197647b89816784e49c"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-cyrillic-600-normal-DvRl3Mj-.woff2",
+      "bytes": 7872,
+      "sha256": "80b86efbef1c9fb66557cc4cc7b6db42db2fd631f1a9b8735f3bbefbb5128799"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-cyrillic-600-normal-It4mZcQk.woff",
+      "bytes": 10060,
+      "sha256": "716a12f36cf789e399e0ad0bd205e3d1c66e4de66fe0c7e94a59ab7f007fce89"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-greek-400-normal-CM4qok81.woff2",
+      "bytes": 5280,
+      "sha256": "47f1b5621859a25df69ec1f1c7ed0ca3aadc3eccd1770c6e89cd5af06f1a0bf8"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-greek-400-normal-DuX9RsAR.woff",
+      "bytes": 6772,
+      "sha256": "b1ef144fe025cbadcfb7880bc611535586d7f45461e7add7305ea2ea9ccad6ed"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-greek-600-normal-BoRV6lzK.woff2",
+      "bytes": 5232,
+      "sha256": "18d69aa241a76095c4c5f8c224abe6519ff60db3b4085e843d59fb4965a4eebd"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-greek-600-normal-CF2i9ZRY.woff",
+      "bytes": 6740,
+      "sha256": "59fa49c299110657ee3dbc02beed32f5fda899423686058a0ce7e499851e6e7a"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-400-normal-8tf8FM3T.woff",
+      "bytes": 18292,
+      "sha256": "1bf66c29a29f1b71d507cb97fc138cd130b856ed05b55decd3a2944b413cb636"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-400-normal-PaqtzbVb.woff2",
+      "bytes": 14108,
+      "sha256": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-600-normal-4f0koTD-.woff2",
+      "bytes": 14172,
+      "sha256": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-600-normal-BqgrALkZ.woff",
+      "bytes": 18384,
+      "sha256": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-ext-400-normal-C-X6QNXX.woff",
+      "bytes": 11316,
+      "sha256": "143798f65cc631e6af5a77f0d34a2597bbef1ff1b24b73f6e6b12c2a79ebeb14"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-ext-400-normal-CMDvPJRp.woff2",
+      "bytes": 8292,
+      "sha256": "72c5354a6f814f3bd38dc3d8caee774f7557b301e69d8428e677b7b73d58d9ee"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-ext-600-normal-_gBojHdJ.woff2",
+      "bytes": 8304,
+      "sha256": "ff679412842fc3b5ce2dfad626db5261a4e663dcfd1bf1209bdfc61c2b2f37e6"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-latin-ext-600-normal-u5Pl7hTU.woff",
+      "bytes": 11248,
+      "sha256": "80ff78480448f4c2c0f586cb016928554b8cd84b2b95dec5e5f7579274f757a0"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-vietnamese-400-normal-D7E_mLGF.woff",
+      "bytes": 6108,
+      "sha256": "1d4631ba5036c35a61c5e342f06d4ffffab85ac0e800fda9e0ceff8ef19aebea"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-vietnamese-400-normal-DHb3EETF.woff2",
+      "bytes": 4464,
+      "sha256": "dcb0ae6367203b04f930051188cbe02e8096c42db99d5ab6b77f16287fb4fa1b"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-vietnamese-600-normal-C1J5PCl_.woff2",
+      "bytes": 4468,
+      "sha256": "bce46331a74572cd723ddb8200a11c00e71370fad490f045564989527469aa3d"
+    },
+    {
+      "path": "sujetica-home/fonts/manrope-vietnamese-600-normal-lA7a_7Ok.woff",
+      "bytes": 6140,
+      "sha256": "628a1c849748530c6f7c02c18bdd3191bc19264e20ad2308a8a954605cdb620b"
+    },
+    {
+      "path": "sujetica-home/hero.webp",
+      "bytes": 181312,
+      "sha256": "0cf8f771ef1ef580f667092c291351fa4a4d3b1bb4d312a32a4c836adbc866ae"
+    },
+    {
+      "path": "sujetica-home/immutable/about-500-b7025a7d98b91439.webp",
+      "bytes": 28168,
+      "sha256": "b7025a7d98b91439e1119b2e89e8b0ce063c21d23024251443945da1191d9623"
+    },
+    {
+      "path": "sujetica-home/immutable/about-863fb6c167334156.webp",
+      "bytes": 106872,
+      "sha256": "863fb6c16733415603814bc3857d2c6a9b20f4cce3af40dca5ba40b0790f12a6"
+    },
+    {
+      "path": "sujetica-home/immutable/child-book-4e8305cafaa39904.webp",
+      "bytes": 195554,
+      "sha256": "4e8305cafaa39904f27effc3e42799320a59e69a97e7bf57e0bfe6124133ac16"
+    },
+    {
+      "path": "sujetica-home/immutable/child-book-500-ceb58f9e10f2e187.webp",
+      "bytes": 67184,
+      "sha256": "ceb58f9e10f2e187b601c84e5da73fd407645acae833cf5760ffd1f0ea1fe6d9"
+    },
+    {
+      "path": "sujetica-home/immutable/child-film-0df2f4b043f6af79.webp",
+      "bytes": 221578,
+      "sha256": "0df2f4b043f6af794a41f597fe480ac08515109bc4877716ce51b139121ace7c"
+    },
+    {
+      "path": "sujetica-home/immutable/child-film-500-ba797540c5c96148.webp",
+      "bytes": 74038,
+      "sha256": "ba797540c5c96148e51072d9f9888823fd7b2f8b49be0e825e50aa3b73e017fa"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-400-italic-AH1vqu4S-0fbe68f0ae868502.woff",
+      "bytes": 16012,
+      "sha256": "0fbe68f0ae86850291607fed0654535ca0e4e59774f2083be8e6a2b0838330fe"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-400-italic-D3GtrbRZ-109ce34012f204b9.woff2",
+      "bytes": 12720,
+      "sha256": "109ce34012f204b9794f2fa2e8e6fdff52b156636cd5da86d86ae7142b48aa03"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-400-normal-CVFrM67f-11a86b7cdc25186a.woff",
+      "bytes": 15696,
+      "sha256": "11a86b7cdc25186a0a119cfc4e9269032ae8b11aa9e70acf98e48ac5d05e390d"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-400-normal-DD2KOZkl-0d23162e67528fdc.woff2",
+      "bytes": 12776,
+      "sha256": "0d23162e67528fdc5fe1b12bedc525a69bbdc86d5d9f3c2ee9e9ee459934ecd4"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-ext-400-italic-BEGvmv_3-91b622f3d9d90c29.woff2",
+      "bytes": 14748,
+      "sha256": "91b622f3d9d90c295a5667852858e85493586e5950a3b6c052dc275e6ea49f77"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-ext-400-italic-C_Uk1MUY-c144b6b4715551b5.woff",
+      "bytes": 19136,
+      "sha256": "c144b6b4715551b519a4fa74e9010c212b3891d07778e5ccc462dcea780b2bb9"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-ext-400-normal-DLdKLAvx-2373fdbd96854b3a.woff",
+      "bytes": 17428,
+      "sha256": "2373fdbd96854b3a6868d3ea36019d0e6f2f48c9990de8f80f0ae867fbaa4a53"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-cyrillic-ext-400-normal-W3Dto7M0-02a3bbfd23dfcfac.woff2",
+      "bytes": 13920,
+      "sha256": "02a3bbfd23dfcfac40ad87d8954078cd96f8a85e661fc73617245fe06d2aa4ea"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-400-italic-BLh7T8o8-337d07118277acbf.woff",
+      "bytes": 32888,
+      "sha256": "337d07118277acbf5a0eb19c602aaf917b2485585360f2c7139ce42d9d4e6cc1"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-400-italic-Dc_OZ8oc-e48e58027030df56.woff2",
+      "bytes": 23660,
+      "sha256": "e48e58027030df56869b795ca6f19b7012158275f7ad7cde1900b4a0b68d02e2"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-400-normal-B-1hWBU7-8048ac209bec741e.woff2",
+      "bytes": 22876,
+      "sha256": "8048ac209bec741e1c29cd0cfac5aac1c0c2ba8c3ddbd4a58fa9bd92ef5c63c2"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-400-normal-B7YtguxJ-b926f33f9d3d5cb6.woff",
+      "bytes": 30980,
+      "sha256": "b926f33f9d3d5cb64e639b8fe9ad5380560a63f3e7a29d212f2b80a2d22ec051"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-ext-400-italic-BdEzgT7i-96ec6109d044a8f2.woff2",
+      "bytes": 20284,
+      "sha256": "96ec6109d044a8f2b279937499923fc0435db3e6bd91ce4cb1fd806d566378b9"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-ext-400-italic-CQvLaSWn-2697e1ecd11cd30a.woff",
+      "bytes": 28716,
+      "sha256": "2697e1ecd11cd30adf57e52f7571bf821c92719fd7c471cea1d7a178cf39d3a1"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-ext-400-normal-Drx2k2n9-375a088756d1cb10.woff2",
+      "bytes": 19888,
+      "sha256": "375a088756d1cb10eb91a9a7de18ad5e9858689abe76496dd78e560fef0bbebb"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-latin-ext-400-normal-uvC0WHQr-751bcaa2bf2f07cb.woff",
+      "bytes": 27928,
+      "sha256": "751bcaa2bf2f07cb2b03f6c83e548dc254d3161741245fa96b372e78cf4c4055"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-vietnamese-400-italic-BoXDRTEW-4a82e13d26b06c46.woff2",
+      "bytes": 6764,
+      "sha256": "4a82e13d26b06c46839898021bb511623f9b73779b4ded1ef60e11df2b136426"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-vietnamese-400-italic-CJpMwFnN-b6c8a02deaec45a9.woff",
+      "bytes": 9408,
+      "sha256": "b6c8a02deaec45a9e558be98b4666732041665cccf4779e791d075a8a1992412"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-vietnamese-400-normal-4uxlocMh-d2eac685abd3003a.woff",
+      "bytes": 9316,
+      "sha256": "d2eac685abd3003ac60c4a208fe1d2febceba397964db73df656b1d2d62e2b24"
+    },
+    {
+      "path": "sujetica-home/immutable/cormorant-garamond-vietnamese-400-normal-6K-YXo6g-eddcd28ffd8e111c.woff2",
+      "bytes": 6744,
+      "sha256": "eddcd28ffd8e111c669789b2978019359bb67b2e2696e566364fd37133c20a3b"
+    },
+    {
+      "path": "sujetica-home/immutable/embedded-10-2ba8c74e257f85e4.woff",
+      "bytes": 2200,
+      "sha256": "2ba8c74e257f85e4462880a1bf39ca3db270b11923d14a674080ef8f6289a7da"
+    },
+    {
+      "path": "sujetica-home/immutable/embedded-16-af1f6f3fa552cf92.woff",
+      "bytes": 2192,
+      "sha256": "af1f6f3fa552cf928315a8c18c09806f1d7d3c143ad16ccf2c0597064456f69b"
+    },
+    {
+      "path": "sujetica-home/immutable/hero-0cf8f771ef1ef580.webp",
+      "bytes": 181312,
+      "sha256": "0cf8f771ef1ef580f667092c291351fa4a4d3b1bb4d312a32a4c836adbc866ae"
+    },
+    {
+      "path": "sujetica-home/immutable/hero-500-de06318a67136934.webp",
+      "bytes": 27984,
+      "sha256": "de06318a6713693448fb856777d67f458a7a5cf3493ea47573da1cccd3b84a79"
+    },
+    {
+      "path": "sujetica-home/immutable/hero-850-ad2d893caba9e9c8.webp",
+      "bytes": 64664,
+      "sha256": "ad2d893caba9e9c8d47abc7dfa115a450065d114db013dfa2bf3fc89e28c875f"
+    },
+    {
+      "path": "sujetica-home/immutable/logo-245-b9bfb74c5c384938.webp",
+      "bytes": 11936,
+      "sha256": "b9bfb74c5c384938d4ce1320a84453646dd1b747cd4bdb9af2806268bb5c5e83"
+    },
+    {
+      "path": "sujetica-home/immutable/logo-490-44b58d5643ef8bf5.webp",
+      "bytes": 30504,
+      "sha256": "44b58d5643ef8bf5f1562c0534ecdb7285e0d18ca82b8afc5c6f4b56a80f26aa"
+    },
+    {
+      "path": "sujetica-home/immutable/logo-512bed507a82c4d0.webp",
+      "bytes": 340998,
+      "sha256": "512bed507a82c4d0e0fd0df3f0575e03646e5134c4c78e5c3cf44c7323a48465"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-cyrillic-400-normal-BMzJvInZ-5a987d1484070f1e.woff2",
+      "bytes": 7840,
+      "sha256": "5a987d1484070f1ea54de7c10ebfa4057a18e379361dbe5fd5c4fa4c2d95ef39"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-cyrillic-400-normal-Dvx59UGC-377eaffaf00d2fe3.woff",
+      "bytes": 10032,
+      "sha256": "377eaffaf00d2fe381870f08f098e3ad266618253c9d4197647b89816784e49c"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-cyrillic-600-normal-DvRl3Mj--80b86efbef1c9fb6.woff2",
+      "bytes": 7872,
+      "sha256": "80b86efbef1c9fb66557cc4cc7b6db42db2fd631f1a9b8735f3bbefbb5128799"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-cyrillic-600-normal-It4mZcQk-716a12f36cf789e3.woff",
+      "bytes": 10060,
+      "sha256": "716a12f36cf789e399e0ad0bd205e3d1c66e4de66fe0c7e94a59ab7f007fce89"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-greek-400-normal-CM4qok81-47f1b5621859a25d.woff2",
+      "bytes": 5280,
+      "sha256": "47f1b5621859a25df69ec1f1c7ed0ca3aadc3eccd1770c6e89cd5af06f1a0bf8"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-greek-400-normal-DuX9RsAR-b1ef144fe025cbad.woff",
+      "bytes": 6772,
+      "sha256": "b1ef144fe025cbadcfb7880bc611535586d7f45461e7add7305ea2ea9ccad6ed"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-greek-600-normal-BoRV6lzK-18d69aa241a76095.woff2",
+      "bytes": 5232,
+      "sha256": "18d69aa241a76095c4c5f8c224abe6519ff60db3b4085e843d59fb4965a4eebd"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-greek-600-normal-CF2i9ZRY-59fa49c299110657.woff",
+      "bytes": 6740,
+      "sha256": "59fa49c299110657ee3dbc02beed32f5fda899423686058a0ce7e499851e6e7a"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-400-normal-8tf8FM3T-1bf66c29a29f1b71.woff",
+      "bytes": 18292,
+      "sha256": "1bf66c29a29f1b71d507cb97fc138cd130b856ed05b55decd3a2944b413cb636"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-400-normal-PaqtzbVb-849290ef12a2eeb9.woff2",
+      "bytes": 14108,
+      "sha256": "849290ef12a2eeb9af5c11924120d11aa4ae8b435ed3347d7fc8bc240c293ca3"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-600-normal-4f0koTD--f7ac6258da20ab75.woff2",
+      "bytes": 14172,
+      "sha256": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-600-normal-BqgrALkZ-8d1f509774bca963.woff",
+      "bytes": 18384,
+      "sha256": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-ext-400-normal-C-X6QNXX-143798f65cc631e6.woff",
+      "bytes": 11316,
+      "sha256": "143798f65cc631e6af5a77f0d34a2597bbef1ff1b24b73f6e6b12c2a79ebeb14"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-ext-400-normal-CMDvPJRp-72c5354a6f814f3b.woff2",
+      "bytes": 8292,
+      "sha256": "72c5354a6f814f3bd38dc3d8caee774f7557b301e69d8428e677b7b73d58d9ee"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-ext-600-normal-_gBojHdJ-ff679412842fc3b5.woff2",
+      "bytes": 8304,
+      "sha256": "ff679412842fc3b5ce2dfad626db5261a4e663dcfd1bf1209bdfc61c2b2f37e6"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-latin-ext-600-normal-u5Pl7hTU-80ff78480448f4c2.woff",
+      "bytes": 11248,
+      "sha256": "80ff78480448f4c2c0f586cb016928554b8cd84b2b95dec5e5f7579274f757a0"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-vietnamese-400-normal-D7E_mLGF-1d4631ba5036c35a.woff",
+      "bytes": 6108,
+      "sha256": "1d4631ba5036c35a61c5e342f06d4ffffab85ac0e800fda9e0ceff8ef19aebea"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-vietnamese-400-normal-DHb3EETF-dcb0ae6367203b04.woff2",
+      "bytes": 4464,
+      "sha256": "dcb0ae6367203b04f930051188cbe02e8096c42db99d5ab6b77f16287fb4fa1b"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-vietnamese-600-normal-C1J5PCl_-bce46331a74572cd.woff2",
+      "bytes": 4468,
+      "sha256": "bce46331a74572cd723ddb8200a11c00e71370fad490f045564989527469aa3d"
+    },
+    {
+      "path": "sujetica-home/immutable/manrope-vietnamese-600-normal-lA7a_7Ok-628a1c849748530c.woff",
+      "bytes": 6140,
+      "sha256": "628a1c849748530c6f7c02c18bdd3191bc19264e20ad2308a8a954605cdb620b"
+    },
+    {
+      "path": "sujetica-home/immutable/poetry-500-4851d19f866e36a5.webp",
+      "bytes": 31894,
+      "sha256": "4851d19f866e36a547a1fa8104a50b120fc8fe988cd62ff972afebb87f48ec01"
+    },
+    {
+      "path": "sujetica-home/immutable/poetry-bbd03a7a90e33690.webp",
+      "bytes": 93844,
+      "sha256": "bbd03a7a90e336905208e5836e2406c1ff82a205d93f7601dbfc9186fe5cd626"
+    },
+    {
+      "path": "sujetica-home/immutable/quest-500-8cc1a18bfa6a3bc9.webp",
+      "bytes": 35860,
+      "sha256": "8cc1a18bfa6a3bc92ea6c72a16c67752eb2b3e052e54d0a1364786989c3d0cfe"
+    },
+    {
+      "path": "sujetica-home/immutable/quest-c7a11f942bf9ce67.webp",
+      "bytes": 121470,
+      "sha256": "c7a11f942bf9ce678dbde53db7070f7aabf58df1a6d9553b4eae3eae35966fd1"
+    },
+    {
+      "path": "sujetica-home/immutable/reviews-4ad279d735752356.webp",
+      "bytes": 72530,
+      "sha256": "4ad279d735752356821f03263c0d708240be4e37c36c84f4f319fc05c6bd9480"
+    },
+    {
+      "path": "sujetica-home/immutable/reviews-500-5c836273d5e30af6.webp",
+      "bytes": 16206,
+      "sha256": "5c836273d5e30af63ac81df8dc8d3394b5372cf388ca567755c231e8810bffa5"
+    },
+    {
+      "path": "sujetica-home/immutable/ribbon-500-552f60e54284d1da.webp",
+      "bytes": 10136,
+      "sha256": "552f60e54284d1da7c9e846a310e574091fdee2495316f4f047b7572838e6f21"
+    },
+    {
+      "path": "sujetica-home/immutable/ribbon-b7e74c8529fba4b8.webp",
+      "bytes": 36514,
+      "sha256": "b7e74c8529fba4b8d5761c5525df29dba28aa36e999b7cc2ea72ff6ff7857015"
+    },
+    {
+      "path": "sujetica-home/immutable/screenplay-500-331dff74f77c4849.webp",
+      "bytes": 27348,
+      "sha256": "331dff74f77c4849642d27f95dc4daae2a69e1c3762eb582933d8c3216ab70bd"
+    },
+    {
+      "path": "sujetica-home/immutable/screenplay-5c504f8e3f4bbf75.webp",
+      "bytes": 77380,
+      "sha256": "5c504f8e3f4bbf757695e0b863481d4c9fb70cdecd17f95a710629612b8df590"
+    },
+    {
+      "path": "sujetica-home/immutable/song-1d215943e6ab122f.webp",
+      "bytes": 92850,
+      "sha256": "1d215943e6ab122f01f58b9cfb793984f7ba9a732ed06f841e62d6562f0b5e0c"
+    },
+    {
+      "path": "sujetica-home/immutable/song-500-bc32d7e037f3cad2.webp",
+      "bytes": 32102,
+      "sha256": "bc32d7e037f3cad24313e47c10b1c030aa0aaf70ca126bbee81ec30de8984f3a"
+    },
+    {
+      "path": "sujetica-home/immutable/speech-500-9e13070c256e365d.webp",
+      "bytes": 17712,
+      "sha256": "9e13070c256e365d05a3966d4e1e3fe260bc4dd18f7d6798d23e75078b8f8a5e"
+    },
+    {
+      "path": "sujetica-home/immutable/speech-854861c089450652.webp",
+      "bytes": 50458,
+      "sha256": "854861c08945065243b75c81049797383ebf53754cc21795f3d27020cd6c27f7"
+    },
+    {
+      "path": "sujetica-home/immutable/toast-364e3fffe04e77eb.webp",
+      "bytes": 73880,
+      "sha256": "364e3fffe04e77ebd0f3e448564fca9de43b43878f26a94763cacd13cea4a9aa"
+    },
+    {
+      "path": "sujetica-home/immutable/toast-500-203dd83a2427fba7.webp",
+      "bytes": 25592,
+      "sha256": "203dd83a2427fba740d394098f7e397ee34c61f396e7d947e1632879321b98da"
+    },
+    {
+      "path": "sujetica-home/immutable/tutor-0e5c3fba65c54bad.webp",
+      "bytes": 144012,
+      "sha256": "0e5c3fba65c54bad08918abbfa712b1e6e4fdabffc25501705eb85e7026ab283"
+    },
+    {
+      "path": "sujetica-home/immutable/tutor-500-0804d02655b0917b.webp",
+      "bytes": 50694,
+      "sha256": "0804d02655b0917b166e38bbd0b7cc59e91e7adec68125e292c2e342dc9d979c"
+    },
+    {
+      "path": "sujetica-home/licenses/Cormorant-Garamond-LICENSE.txt",
+      "bytes": 4504,
+      "sha256": "732f37009943e7f4378cf37113c9bcc4716af002a8583511aa91ed5d37683e73"
+    },
+    {
+      "path": "sujetica-home/licenses/Manrope-LICENSE.txt",
+      "bytes": 4383,
+      "sha256": "d826ab6583b12c26807d8716a545bdbbb672df04f48608a364ba9efdbe501c30"
+    },
+    {
+      "path": "sujetica-home/licenses/Phosphor-LICENSE.txt",
+      "bytes": 1071,
+      "sha256": "6918b72504641180600cbbd4a86b0dfa9dfccf788775694325b71b9a029f6eb4"
+    },
+    {
+      "path": "sujetica-home/logo.webp",
+      "bytes": 340998,
+      "sha256": "512bed507a82c4d0e0fd0df3f0575e03646e5134c4c78e5c3cf44c7323a48465"
+    },
+    {
+      "path": "sujetica-home/poetry.webp",
+      "bytes": 93844,
+      "sha256": "bbd03a7a90e336905208e5836e2406c1ff82a205d93f7601dbfc9186fe5cd626"
+    },
+    {
+      "path": "sujetica-home/quest.webp",
+      "bytes": 121470,
+      "sha256": "c7a11f942bf9ce678dbde53db7070f7aabf58df1a6d9553b4eae3eae35966fd1"
+    },
+    {
+      "path": "sujetica-home/responsive/about-500.webp",
+      "bytes": 28168,
+      "sha256": "b7025a7d98b91439e1119b2e89e8b0ce063c21d23024251443945da1191d9623"
+    },
+    {
+      "path": "sujetica-home/responsive/child-book-500.webp",
+      "bytes": 67184,
+      "sha256": "ceb58f9e10f2e187b601c84e5da73fd407645acae833cf5760ffd1f0ea1fe6d9"
+    },
+    {
+      "path": "sujetica-home/responsive/child-film-500.webp",
+      "bytes": 74038,
+      "sha256": "ba797540c5c96148e51072d9f9888823fd7b2f8b49be0e825e50aa3b73e017fa"
+    },
+    {
+      "path": "sujetica-home/responsive/hero-500.webp",
+      "bytes": 27984,
+      "sha256": "de06318a6713693448fb856777d67f458a7a5cf3493ea47573da1cccd3b84a79"
+    },
+    {
+      "path": "sujetica-home/responsive/hero-850.webp",
+      "bytes": 64664,
+      "sha256": "ad2d893caba9e9c8d47abc7dfa115a450065d114db013dfa2bf3fc89e28c875f"
+    },
+    {
+      "path": "sujetica-home/responsive/logo-245.webp",
+      "bytes": 11936,
+      "sha256": "b9bfb74c5c384938d4ce1320a84453646dd1b747cd4bdb9af2806268bb5c5e83"
+    },
+    {
+      "path": "sujetica-home/responsive/logo-490.webp",
+      "bytes": 30504,
+      "sha256": "44b58d5643ef8bf5f1562c0534ecdb7285e0d18ca82b8afc5c6f4b56a80f26aa"
+    },
+    {
+      "path": "sujetica-home/responsive/manifest.json",
+      "bytes": 4720,
+      "sha256": "010e2941aaa0260e7de8693a87931365a5113e1e3afc399957034bb688f49af4"
+    },
+    {
+      "path": "sujetica-home/responsive/poetry-500.webp",
+      "bytes": 31894,
+      "sha256": "4851d19f866e36a547a1fa8104a50b120fc8fe988cd62ff972afebb87f48ec01"
+    },
+    {
+      "path": "sujetica-home/responsive/quest-500.webp",
+      "bytes": 35860,
+      "sha256": "8cc1a18bfa6a3bc92ea6c72a16c67752eb2b3e052e54d0a1364786989c3d0cfe"
+    },
+    {
+      "path": "sujetica-home/responsive/reviews-500.webp",
+      "bytes": 16206,
+      "sha256": "5c836273d5e30af63ac81df8dc8d3394b5372cf388ca567755c231e8810bffa5"
+    },
+    {
+      "path": "sujetica-home/responsive/ribbon-500.webp",
+      "bytes": 10136,
+      "sha256": "552f60e54284d1da7c9e846a310e574091fdee2495316f4f047b7572838e6f21"
+    },
+    {
+      "path": "sujetica-home/responsive/screenplay-500.webp",
+      "bytes": 27348,
+      "sha256": "331dff74f77c4849642d27f95dc4daae2a69e1c3762eb582933d8c3216ab70bd"
+    },
+    {
+      "path": "sujetica-home/responsive/song-500.webp",
+      "bytes": 32102,
+      "sha256": "bc32d7e037f3cad24313e47c10b1c030aa0aaf70ca126bbee81ec30de8984f3a"
+    },
+    {
+      "path": "sujetica-home/responsive/speech-500.webp",
+      "bytes": 17712,
+      "sha256": "9e13070c256e365d05a3966d4e1e3fe260bc4dd18f7d6798d23e75078b8f8a5e"
+    },
+    {
+      "path": "sujetica-home/responsive/toast-500.webp",
+      "bytes": 25592,
+      "sha256": "203dd83a2427fba740d394098f7e397ee34c61f396e7d947e1632879321b98da"
+    },
+    {
+      "path": "sujetica-home/responsive/tutor-500.webp",
+      "bytes": 50694,
+      "sha256": "0804d02655b0917b166e38bbd0b7cc59e91e7adec68125e292c2e342dc9d979c"
+    },
+    {
+      "path": "sujetica-home/reviews.webp",
+      "bytes": 72530,
+      "sha256": "4ad279d735752356821f03263c0d708240be4e37c36c84f4f319fc05c6bd9480"
+    },
+    {
+      "path": "sujetica-home/ribbon.webp",
+      "bytes": 36514,
+      "sha256": "b7e74c8529fba4b8d5761c5525df29dba28aa36e999b7cc2ea72ff6ff7857015"
+    },
+    {
+      "path": "sujetica-home/screenplay.webp",
+      "bytes": 77380,
+      "sha256": "5c504f8e3f4bbf757695e0b863481d4c9fb70cdecd17f95a710629612b8df590"
+    },
+    {
+      "path": "sujetica-home/song.webp",
+      "bytes": 92850,
+      "sha256": "1d215943e6ab122f01f58b9cfb793984f7ba9a732ed06f841e62d6562f0b5e0c"
+    },
+    {
+      "path": "sujetica-home/speech.webp",
+      "bytes": 50458,
+      "sha256": "854861c08945065243b75c81049797383ebf53754cc21795f3d27020cd6c27f7"
+    },
+    {
+      "path": "sujetica-home/toast.webp",
+      "bytes": 73880,
+      "sha256": "364e3fffe04e77ebd0f3e448564fca9de43b43878f26a94763cacd13cea4a9aa"
+    },
+    {
+      "path": "sujetica-home/tutor.webp",
+      "bytes": 144012,
+      "sha256": "0e5c3fba65c54bad08918abbfa712b1e6e4fdabffc25501705eb85e7026ab283"
+    }
+  ]
+}
