@@ -1,0 +1,1 @@
+import{t as e}from"./start-help-texts-frp-seven-part1-CsWtpIM_.js";import{t}from"./start-help-texts-frp-seven-part2-BlF2sNMu.js";var n={...e,...t};export{n as TEXTS};

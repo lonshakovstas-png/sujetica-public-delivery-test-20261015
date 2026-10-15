@@ -1,0 +1,1 @@
+function e(e){if(!Number.isSafeInteger(e)||!Number.isSafeInteger(e*6))return`—`;let t=Math.abs(e)*6,n=Math.floor(t/6e4),r=t%6e4/1e3,i=[n?`${n.toLocaleString(`ru-RU`)} мин`:``,r||!n?`${r.toLocaleString(`ru-RU`,{maximumFractionDigits:3})} с`:``].filter(Boolean);return`${e<0?`−`:``}${i.join(` `)}`}export{e as t};
