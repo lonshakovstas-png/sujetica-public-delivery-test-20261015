@@ -1,0 +1,1 @@
+var e={minLength:8,maxLength:256};export{e as t};
